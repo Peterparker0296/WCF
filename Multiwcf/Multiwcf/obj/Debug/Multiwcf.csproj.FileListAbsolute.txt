@@ -1,0 +1,12 @@
+D:\sample programs\Multiwcf\Multiwcf\bin\Multiwcf.dll.config
+D:\sample programs\Multiwcf\Multiwcf\bin\Multiwcf.dll
+D:\sample programs\Multiwcf\Multiwcf\bin\Multiwcf.pdb
+D:\sample programs\Multiwcf\Multiwcf\bin\EntityFramework.dll
+D:\sample programs\Multiwcf\Multiwcf\bin\EntityFramework.SqlServer.dll
+D:\sample programs\Multiwcf\Multiwcf\bin\EntityFramework.xml
+D:\sample programs\Multiwcf\Multiwcf\bin\EntityFramework.SqlServer.xml
+D:\sample programs\Multiwcf\Multiwcf\obj\Debug\Multiwcf.csproj.AssemblyReference.cache
+D:\sample programs\Multiwcf\Multiwcf\obj\Debug\Multiwcf.csproj.CoreCompileInputs.cache
+D:\sample programs\Multiwcf\Multiwcf\obj\Debug\Multiwcf.csproj.CopyComplete
+D:\sample programs\Multiwcf\Multiwcf\obj\Debug\Multiwcf.dll
+D:\sample programs\Multiwcf\Multiwcf\obj\Debug\Multiwcf.pdb
